@@ -1,2 +1,2 @@
 # fengyun-games
-Collextions of open source games.
+Collections of open source games.
